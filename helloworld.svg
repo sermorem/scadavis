@@ -15,7 +15,7 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.4 (e05b578f1, 2019-02-26, custom)"
-   sodipodi:docname="helloworld4.svg">
+   sodipodi:docname="helloworld.svg">
   <defs
      id="defs2">
     <linearGradient
@@ -479,9 +479,9 @@
      inkscape:current-layer="layer1"
      showgrid="false"
      units="px"
-     inkscape:window-width="2560"
-     inkscape:window-height="1057"
-     inkscape:window-x="-8"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
   <metadata
@@ -492,7 +492,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -502,12 +502,12 @@
      id="layer1"
      transform="translate(0,-32.41665)">
     <rect
-       style="fill:#164450;fill-opacity:1;stroke:#333333;stroke-width:0.32847056"
+       style="fill:#164450;fill-opacity:1;stroke:#333333;stroke-width:0.36111099"
        id="rect10996"
-       width="358.79816"
-       height="125.31729"
-       x="5.9630175"
-       y="148.47021" />
+       width="439.07263"
+       height="123.76942"
+       x="5.9793377"
+       y="148.48654" />
     <a
        id="a1284"
        xlink:href="https://scadavis.io"
@@ -611,7 +611,7 @@
     </a>
     <g
        id="g14932-7-1-4-7"
-       transform="matrix(-0.4585358,0,0,0.45391711,661.00152,-198.2619)"
+       transform="matrix(1.1995373,0,0,0.37033225,-776.53857,0.87349885)"
        style="fill:url(#linearGradient5155-8-8);fill-opacity:1">
       <path
          sodipodi:nodetypes="ccccccc"
@@ -2100,5 +2100,31 @@
    style="font-size:21.33333397px;fill:#ffffff"
    id="tspan4953">▼</tspan>LIVE</tspan></text>
     </g>
+    <text
+       transform="scale(1.0050748,0.99495083)"
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       id="text14666-28-5"
+       y="342.06412"
+       x="327.87732"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608885px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.42881355"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608885px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.42881355"
+         y="342.06412"
+         x="327.87732"
+         id="tspan14668-2-9"
+         sodipodi:role="line">.3s</tspan></text>
+    <text
+       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR @3&quot;,&quot;type&quot;:&quot;Good&quot;}"
+       y="359.36362"
+       x="328.54462"
+       transform="scale(1.006623,0.99342057)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608789px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee;stroke-width:0.49770659"
+       id="text5767-3-2-5-6-3-3"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608789px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.49770659"
+         id="tspan34299-3-1-9-4">%.7s</tspan>
+    </text>
   </g>
 </svg>
