@@ -501,13 +501,6 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-32.41665)">
-    <rect
-       style="fill:#164450;fill-opacity:1;stroke:#333333;stroke-width:0.36111099"
-       id="rect10996"
-       width="439.07263"
-       height="123.76942"
-       x="5.9793377"
-       y="148.48654" />
     <a
        id="a1284"
        xlink:href="https://scadavis.io"
@@ -2101,41 +2094,25 @@
    id="tspan4953">▼</tspan>LIVE</tspan></text>
     </g>
     <text
-       transform="scale(1.0050748,0.99495083)"
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@4&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       id="text14666-28-5"
-       y="246.62791"
-       x="386.67285"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608885px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#ff9955;fill-opacity:1;stroke:none;stroke-width:0.42881355"
-       xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608885px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.42881355"
-         y="246.62791"
-         x="386.67285"
-         id="tspan14668-2-9"
-         sodipodi:role="line">.3s</tspan></text>
-    <text
-       inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;!DCR @4&quot;,&quot;type&quot;:&quot;Good&quot;}"
-       y="258.18774"
-       x="388.25323"
-       transform="scale(1.006623,0.99342057)"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608789px;line-height:0%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;fill:#00eeee;stroke-width:0.49770659"
-       id="text5767-3-2-5-6-3-3"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90">
-      <tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.63608789px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.49770659"
-         id="tspan34299-3-1-9-4">%.7s</tspan>
-    </text>
-    <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       x="355.06863"
-       y="214.1931"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7f2a;fill-opacity:1;stroke:none"
+       x="363.65494"
+       y="185.40375"
        id="text4297"
        inkscape:label="{&quot;align&quot;:&quot;Right&quot;,&quot;attr&quot;:&quot;get&quot;,&quot;tag&quot;:&quot;@5&quot;,&quot;type&quot;:&quot;Good&quot;}"><tspan
          sodipodi:role="line"
          id="tspan4295"
-         x="355.06863"
-         y="214.1931">.3s</tspan></text>
+         x="363.65494"
+         y="185.40375">.3s</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ffff;fill-opacity:1;stroke:none;"
+       x="350.52295"
+       y="228.33522"
+       id="text4301"><tspan
+         sodipodi:role="line"
+         id="tspan4299"
+         x="350.52295"
+         y="228.33522">%.7s</tspan></text>
   </g>
 </svg>
